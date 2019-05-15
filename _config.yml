@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://minseoingoo.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -55,16 +55,16 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: minseo
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile2.png
         twitter: johndoe
     jamesfoster:
-        name: James Foster
+        name: minseo
         bio: A Man who develops software with coffee
         external-image: false
-        picture: assets/images/james.jpg
+        picture: assets/images/profile2.png
         twitter: jamesfoster
 
 # do you want a larger site? change the option below
